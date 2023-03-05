@@ -14,6 +14,8 @@ import java.util.Scanner;
 public class PalindromeNumber {
      public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        System.out.println("=======PalindromeNumber=======");
+        System.out.println("===Darmawan Suka Prajadiputra==="); 
         System.out.print("Masukkan angka: ");
         int num = input.nextInt();
         int nextNum = num + 1;
